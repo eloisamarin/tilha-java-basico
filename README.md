@@ -16,7 +16,7 @@ Após preencher todos os campos, uma mensagem personalizada é exibida ao usuár
 ## 💻 Tecnologias utilizadas
 
 - Java
-- Eclipse IDE (ou qualquer outra IDE de sua escolha)
+- Eclipse IDE 
 - Git e GitHub para versionamento e hospedagem
 
 ## 🚀 Como executar
